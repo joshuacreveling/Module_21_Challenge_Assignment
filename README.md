@@ -9,7 +9,7 @@ The sections of this project are as follows:
 * Create the KaseiCoin token contract.  
 * Create the KaseiCoin crowdsale contract. 
 * Create the KaseiCoin deployer contract. 
-* Perform a real-world, pre-production test of your crowdsale. In order to do so, you will deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
+* Perform a real-world, pre-production test of the crowdsale by deploying the crowdsale to a local blockchain using Remix, MetaMask, and Ganache.
 * Demonstrate the deployed contract in action.  (This demonstration is shown in the folloing README section, Evaluation Evidence.)
 
 ---
